@@ -1,4 +1,4 @@
-# Crypto AI Trading Bot
+# Crypto Ai Trading Bot
 
 <p align="center">
   <a href="https://SamDesantos.github.io/Apex-Trading-Bot/">
@@ -22,7 +22,7 @@ A modern cryptocurrency trading Bot built with **AI technologies**, designed to 
 
 ## Overview
 
-**Crypto AI Trading Bot** is a modern cryptocurrency analysis and trading platform that combines real-time market data, technical analysis, portfolio management, trading simulation, backtesting and AI-assisted market analysis into a single application.
+**Crypto Ai Trading Bot** is a modern cryptocurrency analysis and trading platform that combines real-time market data, technical analysis, portfolio management, trading simulation, backtesting and AI-assisted market analysis into a single application.
 
 The project is designed with a modern frontend architecture based on:
 
